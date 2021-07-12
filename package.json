@@ -1,0 +1,19 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tooney92/digitalOcean-node-app.git"
+  },
+  "author": "legal debugger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tooney92/digitalOcean-node-app/issues"
+  },
+  "homepage": "https://github.com/tooney92/digitalOcean-node-app#readme"
+}
